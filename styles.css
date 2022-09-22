@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    border: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hero-section {
+    background-color: #c6e2e9 ;
+    text-align: center;
+    padding: 80px;
+}
+
+.hero-section > * {
+    color: black;
+    margin: 30px;
+}
+
+/* .icon {
+    border-radius: 0px 160px 160px 160px;
+    background-color: #a7bed3;
+    padding: 100px;
+    width: 10px;
+    height: 10px;
+} */
